@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently waiting on results for my [Masters Thesis](https://github.com/LucHayward/Masters-Hub)
 
-- 🌱 I’m looking to learn **Go** and explore reall world applications of ML
+- 🌱 I’m looking to learn **Go** and explore real world applications of ML
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
