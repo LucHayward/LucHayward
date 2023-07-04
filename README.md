@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Luc Hayward</h1>
-<h3 align="center">I'm probably out climbing mountain3</h3>
+<h3 align="center">I'm probably out climbing mountains</h3>
 
 
 - 🔭 I’m currently waiting on results for my [Masters Thesis](https://github.com/LucHayward/Masters-Hub)
