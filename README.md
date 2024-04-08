@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 <h3 align="center">I'm probably out climbing mountains</h3>
 
 
-- 🔭 I’m currently waiting on results for my [Masters Thesis](https://github.com/LucHayward/Masters-Hub)
-
-- 🌱 I’m looking to learn **Go** and explore real world applications of ML
+- 🔭 I’m currently working on delivery systems at [Zulzi](https://zulzi.com)
+- 🌱 I’m currently learning Rust and improving my Go
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
